@@ -1,0 +1,4 @@
+hopping,moving quickly by doing a springy leap,similar to jumping
+clone,to make an exact copy of something,The sheep Dolly was a ___
+pumpkin,a large orange fruit,can be used as a halloween decoration
+dune,a mound of sand in the desert, also the name of a file used to build an OCaml project

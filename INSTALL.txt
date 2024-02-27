@@ -1,0 +1,3 @@
+After unzipping the ZIP file, you should have all the code necessary to run the crossword.
+There are no additional packages you need to install. To run the program, open your terminal
+and run 'make play', which prompts the user to play the game. You are ready to play the crossword game!

@@ -1,0 +1,4 @@
+(library
+ (name crossword)
+ (public_name Crossword)
+ (libraries str ounit2))

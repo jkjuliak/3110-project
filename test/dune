@@ -1,0 +1,4 @@
+(test
+ (name main)
+ (modules main)
+ (libraries ounit2 Crossword))

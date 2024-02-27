@@ -1,0 +1,4 @@
+(executable
+ (name play)
+ (public_name Play)
+ (libraries Crossword ounit2))
